@@ -2,3 +2,4 @@
 
 **This repository stores asset files located in the following gists:**
 - [wd006/macOS-New-Text-File-on-Right-Click-Menu.md](https://gist.github.com/wd006/d5fe502382ba4bc1a05de003bc5196ec)
+- [wd006/Run-Apache-HTTPD-Server-on-iOS-Natively.md](https://gist.github.com/wd006/201e27a53c5a3bf03646d29e5aa9dd1d)
